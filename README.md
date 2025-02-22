@@ -37,8 +37,8 @@ Hi, I'm **Bhagyawant!** A passionate **Front-End Developer** with a keen interes
 ---
 
 ### 🌍 Let's Connect!  
-[![LinkedIn](https://www.linkedin.com/in/bhagyawant-devnure-745722261/)  
-[![GitHub](https://github.com/Bhagyawant-devnure/Bhagyawant-devnure/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhagyawant-devnure-745722261/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Bhagyawant-devnure/Bhagyawant-devnure/)   
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=Google-Chrome&logoColor=white)](YOUR-PORTFOLIO-LINK)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)  
 
